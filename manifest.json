@@ -1,0 +1,25 @@
+{
+    "name": "Random Playing Cards",
+    "short_name": "RPC",
+    "theme_color": "green",
+    "background_color": "green",
+    "display": "standalone",
+    "orientation": "portrait",
+    "description": "Generate random playing cards with a tap!",
+    "scope": "/randomplayingcards/",
+    "start_url": "/randomplayingcards/",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./icon.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
