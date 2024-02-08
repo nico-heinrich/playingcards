@@ -6,8 +6,8 @@
     "display": "standalone",
     "orientation": "portrait",
     "description": "Generate random playing cards with a tap!",
-    "scope": "/randomplayingcards/",
-    "start_url": "/randomplayingcards/",
+    "scope": "/",
+    "start_url": "/",
     "icons": [
         {
             "src": "./icon.png",
